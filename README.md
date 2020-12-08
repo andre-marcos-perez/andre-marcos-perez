@@ -9,7 +9,7 @@
 
 #### Written
 
- - **[Paper](https://www.mdpi.com/1099-4300/21/11/1087)**: Risk Management in E-Commerce—A Fraud Study Case Using Acoustic Analysis through Its Complexit - **MDPI Entropy** - :uk: - November, 2019;
+ - **[Paper](https://www.mdpi.com/1099-4300/21/11/1087)**: Risk Management in E-Commerce - A Fraud Study Case Using Acoustic Analysis - **MDPI Entropy** - :uk: - November, 2019;
  - **[Article](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)**: Apache Spark Cluster on Docker (ft. a JupyterLab Interface) - **Medium Website** - :uk: - July, 2020;
  - **[Article](https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook)**: Getting started with MongoDB, PySpark, and Jupyter Notebook (mention) - **MongoDB Tech Blog** - :uk: - October, 2020.
 
