@@ -9,10 +9,11 @@
 
 #### Written
 
- - **[Paper](https://www.mdpi.com/1099-4300/21/11/1087)**: Risk Management in E-Commerce - A Fraud Study Case Using Acoustic Analysis - **MDPI Entropy** - :uk: - November, 2019;
- - **[Article](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)**: Apache Spark Cluster on Docker (ft. a JupyterLab Interface) - **Medium Website** - :uk: - July, 2020;
+ - **[Article](https://medium.com/team-data-stone/sobre-a-hist%C3%B3ria-da-computa%C3%A7%C3%A3o-distribu%C3%ADda-e-clusters-kubernetes-3d0fe331db7)**: About the history of distributed computing and Kubernetes clusters - **Data Team Stone on Medium** - :brazil: - January, 2021.
  - **[Article](https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook)**: Getting started with MongoDB, PySpark, and Jupyter Notebook (mention) - **MongoDB Tech Blog** - :uk: - October, 2020.
-
+ - **[Article](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)**: Apache Spark Cluster on Docker (ft. a JupyterLab Interface) - **Towards Data Science on Mediume** - :uk: - July, 2020;
+ - **[Paper](https://www.mdpi.com/1099-4300/21/11/1087)**: Risk Management in E-Commerce - A Fraud Study Case Using Acoustic Analysis - **MDPI Entropy** - :uk: - November, 2019;
+ 
 #### Spoken
 
  - **[Podcast](https://hipsters.tech/engenharia-de-dados-na-serasa-experian-hipsters-on-the-road-37/)**: Data Engineering at Experian - **Hipsters.Tech podcast** - :brazil: - July, 2020.
