@@ -20,7 +20,6 @@
 
 #### Video
 
- - **[Live](https://www.youtube.com/watch?v=Knh6gLOGn3w&feature=youtu.be)**: Building a Data Lakes on AWS - **EstatiDados YouTube Channel** - :brazil: - December, 2020;
  - **[Live](https://www.youtube.com/watch?v=5c6tfp4OQUw&feature=youtu.be)**: Meet Stone's Credit Data Team - **EstatiDados YouTube Channel** - :brazil: - March, 2021.
-
-
+ - **[Live](https://www.youtube.com/watch?v=Knh6gLOGn3w&feature=youtu.be)**: Building a Data Lakes on AWS - **EstatiDados YouTube Channel** - :brazil: - December, 2020;
+ 
