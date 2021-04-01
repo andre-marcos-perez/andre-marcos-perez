@@ -9,6 +9,7 @@
 
 #### Written
 
+ - **[Article](https://medium.com/team-data-stone/plataformas-de-machine-learning-parte-i-modelos-do-ponto-de-vista-da-engenharia-303482fa77f5)**: Machine Learning Models from the Engineering Perspective - **Data Team Stone on Medium** - :brazil: - March, 2021.
  - **[Article](https://medium.com/team-data-stone/sobre-a-hist%C3%B3ria-da-computa%C3%A7%C3%A3o-distribu%C3%ADda-e-clusters-kubernetes-3d0fe331db7)**: About the history of distributed computing and Kubernetes clusters - **Data Team Stone on Medium** - :brazil: - January, 2021.
  - **[Article](https://www.mongodb.com/blog/post/getting-started-with-mongodb-pyspark-and-jupyter-notebook)**: Getting started with MongoDB, PySpark, and Jupyter Notebook (mention) - **MongoDB Tech Blog** - :uk: - October, 2020.
  - **[Article](https://towardsdatascience.com/apache-spark-cluster-on-docker-ft-a-juyterlab-interface-418383c95445)**: Apache Spark Cluster on Docker (ft. a JupyterLab Interface) - **Towards Data Science on Mediume** - :uk: - July, 2020;
@@ -20,6 +21,6 @@
 
 #### Video
 
+ - **[Talk](https://thedevconf.com/tdc/2021/innovation/trilha-inteligencia-artificial-e-machine-learning)**: The Mindset and Elements of a Machine Learning Platform - **The Developer's Conference** - :brazil: - March, 2021.
  - **[Live](https://www.youtube.com/watch?v=5c6tfp4OQUw&feature=youtu.be)**: Meet Stone's Credit Data Team - **EstatiDados YouTube Channel** - :brazil: - March, 2021.
  - **[Live](https://www.youtube.com/watch?v=Knh6gLOGn3w&feature=youtu.be)**: Building a Data Lakes on AWS - **EstatiDados YouTube Channel** - :brazil: - December, 2020;
- 
