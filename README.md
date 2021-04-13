@@ -24,3 +24,10 @@
  - **[Talk](https://thedevconf.com/tdc/2021/innovation/trilha-inteligencia-artificial-e-machine-learning)**: The Mindset and Elements of a Machine Learning Platform - **The Developer's Conference** - :brazil: - March, 2021.
  - **[Live](https://www.youtube.com/watch?v=5c6tfp4OQUw&feature=youtu.be)**: Meet Stone's Credit Data Team - **EstatiDados YouTube Channel** - :brazil: - March, 2021.
  - **[Live](https://www.youtube.com/watch?v=Knh6gLOGn3w&feature=youtu.be)**: Building a Data Lakes on AWS - **EstatiDados YouTube Channel** - :brazil: - December, 2020;
+
+#### Teaching
+
+ - **[Course](https://ebaconline.com.br/cientista-de-dados)**: Data Science - **EBAC** - :brazil: - April, 2021;
+ - **[Course](https://ebaconline.com.br/analista-de-dados)**: Data Analyst - **EBAC** - :brazil: - April, 2021;
+ - **[Course](https://ebaconline.com.br/python-para-dados)**: SQL for Data Analysis - **EBAC** - :brazil: - April, 2021;
+ - **[Course](https://ebaconline.com.br/sql-para-dados)**: Python for Data Analysis - **EBAC** - :brazil: - April, 2021.
