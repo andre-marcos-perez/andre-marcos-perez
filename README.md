@@ -22,6 +22,7 @@
 
 #### Video
 
+ - **[Talk](https://thedevconf.com/tdc/2021/connections/trilha-inteligencia-artificial-e-machine-learning)**: Feature Store Cookbook - **The Developer's Conference** - :brazil: - June, 2021.
  - **[Talk](https://thedevconf.com/tdc/2021/innovation/trilha-inteligencia-artificial-e-machine-learning)**: The Mindset and Elements of a Machine Learning Platform - **The Developer's Conference** - :brazil: - March, 2021.
  - **[Live](https://www.youtube.com/watch?v=5c6tfp4OQUw&feature=youtu.be)**: Meet Stone's Credit Data Team - **EstatiDados YouTube Channel** - :brazil: - March, 2021.
  - **[Live](https://www.youtube.com/watch?v=Knh6gLOGn3w&feature=youtu.be)**: Building a Data Lakes on AWS - **EstatiDados YouTube Channel** - :brazil: - December, 2020;
