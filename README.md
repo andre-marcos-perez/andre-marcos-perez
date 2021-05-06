@@ -17,6 +17,7 @@
  
 #### Spoken
 
+ - **[Podcast](https://open.spotify.com/episode/40CM4kr2uanP7KrDZhQeCH)**: Data, IA and ML in our daily lives - **DevPira podcast** - :brazil: - May, 2021.
  - **[Podcast](https://hipsters.tech/engenharia-de-dados-na-serasa-experian-hipsters-on-the-road-37/)**: Data Engineering at Experian - **Hipsters.Tech podcast** - :brazil: - July, 2020.
 
 #### Video
